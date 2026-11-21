@@ -3,7 +3,7 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     [SerializeField] float speed;
-    float bounds = 9.7f;
+    float bounds = 7.48f;
     void Start()
     {
     }
